@@ -1,0 +1,4 @@
+Some simple c and c++ code
+
+gcc example.c
+g++ example.cc
