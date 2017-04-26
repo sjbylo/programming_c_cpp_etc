@@ -8,3 +8,7 @@ gcc file.c
 
 g++ file.cc
 
+Run like this:
+
+./a.out 
+
